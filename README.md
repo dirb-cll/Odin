@@ -1,2 +1,4 @@
 # Odin
-学Python的第一天
+Python 2st
+调用api
+
